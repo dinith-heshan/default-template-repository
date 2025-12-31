@@ -1,34 +1,15 @@
 # -----------------------
 # OS Files
 # -----------------------
+# macOS
 .DS_Store
-Thumbs.db
 
-# -----------------------
-# Python
-# -----------------------
-__pycache__/
-*.py[cod]
-*.pyo
-*.pyd
-*.env
-*.venv
-env/
-venv/
-.venv/
-*.egg-info/
-dist/
-build/
+# Windows
+Thumbs.db
+Desktop.ini
+
 
 # -----------------------
 # IDE / Editor
 # -----------------------
 .vscode/
-.idea/
-*.sublime-project
-*.sublime-workspace
-
-# -----------------------
-# Git
-# -----------------------
-.gitignore
