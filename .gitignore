@@ -13,3 +13,9 @@ Desktop.ini
 # IDE / Editor
 # -----------------------
 .vscode/
+
+
+# -----------------------
+# Environment Files
+# -----------------------
+.venv/
